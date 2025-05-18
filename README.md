@@ -116,10 +116,11 @@ A lo largo del curso, se abordan desde los conceptos básicos hasta temas más a
 
 **Autor del curso**: [Hola Mundo!](https://www.youtube.com/@HolaMundoDev)  
 **Video original**: [Ver en YouTube](https://youtu.be/MJkdaVFHrto?si=ZnTJakDj_N2eiYt5)
-**Todo derecho es de Autor,Copyright 2025**
 
+---
 
-
+## ⚠️ Derechos Reservados  
+**© 2025 - Todos los derechos reservados**
 
 
 
