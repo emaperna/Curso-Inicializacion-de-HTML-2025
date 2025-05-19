@@ -121,6 +121,3 @@ A lo largo del curso, se abordan desde los conceptos básicos hasta temas más a
 
 ## ⚠️ Derechos Reservados  
 **© 2025 - Todos los derechos reservados**
-
-
-
